@@ -18,7 +18,7 @@ pip install PyQt
 ```
 
 ## Usage
-### 1.Clone the Repository 
+### 1. Clone the Repository 
 ```sh
   git clone https://github.com/Kevin06055/minor_project.git
   cd minor_project
